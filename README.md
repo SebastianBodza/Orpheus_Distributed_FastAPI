@@ -1,4 +1,10 @@
 # Orpheus Distributed Streaming with FastAPI
+<p align="center">
+  <video width="512" height="512" controls>
+    <source src="https://github.com/SebastianBodza/Orpheus_Distributed_FastAPI/raw/refs/heads/main/eraTOV-fw57rwZgC.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 A demo for running Orpheus streaming server detached. The SNAC and the LLM can be easily placed on different devices as the FastAPI uses an openAI compatible server. 
 
